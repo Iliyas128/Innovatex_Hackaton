@@ -1,0 +1,5 @@
+path: C:\Users\Wekin\OneDrive\Рабочий стол\IliyasMoget\datasets\yolo_dataset_with_negatives
+train: images/train
+val: images/val
+nc: 4
+names: ['signature', 'stamp', 'qr', 'background']

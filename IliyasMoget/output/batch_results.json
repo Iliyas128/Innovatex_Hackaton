@@ -1,0 +1,8227 @@
+{
+  "stats": {
+    "signature": 104,
+    "stamp": 170,
+    "qr": 224,
+    "total_files": 334,
+    "total_detections": 498
+  },
+  "results": [
+    {
+      "image": "temp_images\\АПЗ-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.34229692816734314,
+          "bbox": {
+            "x": 2179,
+            "y": 3144,
+            "width": 117,
+            "height": 127
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3328196108341217,
+          "bbox": {
+            "x": 2192,
+            "y": 3143,
+            "width": 98,
+            "height": 126
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.31159475445747375,
+          "bbox": {
+            "x": 2189,
+            "y": 3154,
+            "width": 109,
+            "height": 115
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.37071090936660767,
+          "bbox": {
+            "x": 2186,
+            "y": 3143,
+            "width": 111,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.38108131289482117,
+          "bbox": {
+            "x": 2196,
+            "y": 3156,
+            "width": 110,
+            "height": 118
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3567046523094177,
+          "bbox": {
+            "x": 2193,
+            "y": 3155,
+            "width": 108,
+            "height": 126
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.33950117230415344,
+          "bbox": {
+            "x": 2198,
+            "y": 3150,
+            "width": 84,
+            "height": 124
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.3750688135623932,
+          "bbox": {
+            "x": 862,
+            "y": 3038,
+            "width": 516,
+            "height": 241
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.37038087844848633,
+          "bbox": {
+            "x": 2190,
+            "y": 3152,
+            "width": 107,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8785062432289124,
+          "bbox": {
+            "x": 1446,
+            "y": 308,
+            "width": 372,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8777519464492798,
+          "bbox": {
+            "x": 1453,
+            "y": 723,
+            "width": 359,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8634712100028992,
+          "bbox": {
+            "x": 136,
+            "y": 721,
+            "width": 385,
+            "height": 335
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8528187870979309,
+          "bbox": {
+            "x": 1875,
+            "y": 300,
+            "width": 358,
+            "height": 343
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8424723148345947,
+          "bbox": {
+            "x": 1013,
+            "y": 296,
+            "width": 378,
+            "height": 333
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8299639821052551,
+          "bbox": {
+            "x": 143,
+            "y": 294,
+            "width": 376,
+            "height": 354
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8277775049209595,
+          "bbox": {
+            "x": 1878,
+            "y": 725,
+            "width": 350,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8049017786979675,
+          "bbox": {
+            "x": 1881,
+            "y": 1145,
+            "width": 336,
+            "height": 347
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7862992286682129,
+          "bbox": {
+            "x": 1026,
+            "y": 1139,
+            "width": 341,
+            "height": 357
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7855868339538574,
+          "bbox": {
+            "x": 1447,
+            "y": 1139,
+            "width": 366,
+            "height": 367
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7808275818824768,
+          "bbox": {
+            "x": 570,
+            "y": 302,
+            "width": 369,
+            "height": 345
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7780578136444092,
+          "bbox": {
+            "x": 585,
+            "y": 1146,
+            "width": 338,
+            "height": 356
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7607890963554382,
+          "bbox": {
+            "x": 138,
+            "y": 1134,
+            "width": 376,
+            "height": 368
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7558598518371582,
+          "bbox": {
+            "x": 999,
+            "y": 714,
+            "width": 393,
+            "height": 343
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7554710507392883,
+          "bbox": {
+            "x": 576,
+            "y": 723,
+            "width": 351,
+            "height": 352
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.31484150886535645,
+          "bbox": {
+            "x": 2185,
+            "y": 3141,
+            "width": 115,
+            "height": 133
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.35826539993286133,
+          "bbox": {
+            "x": 2177,
+            "y": 3143,
+            "width": 115,
+            "height": 129
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3480474650859833,
+          "bbox": {
+            "x": 2193,
+            "y": 3158,
+            "width": 102,
+            "height": 119
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3112088143825531,
+          "bbox": {
+            "x": 2193,
+            "y": 3178,
+            "width": 111,
+            "height": 113
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3625197410583496,
+          "bbox": {
+            "x": 2175,
+            "y": 3167,
+            "width": 120,
+            "height": 113
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3950585424900055,
+          "bbox": {
+            "x": 2163,
+            "y": 3157,
+            "width": 127,
+            "height": 138
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.4000255763530731,
+          "bbox": {
+            "x": 2188,
+            "y": 3148,
+            "width": 109,
+            "height": 131
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3050078749656677,
+          "bbox": {
+            "x": 2172,
+            "y": 3148,
+            "width": 117,
+            "height": 128
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.4829785227775574,
+          "bbox": {
+            "x": 979,
+            "y": 3001,
+            "width": 178,
+            "height": 92
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.44419053196907043,
+          "bbox": {
+            "x": 2190,
+            "y": 3147,
+            "width": 116,
+            "height": 141
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8844115734100342,
+          "bbox": {
+            "x": 1464,
+            "y": 321,
+            "width": 342,
+            "height": 315
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8631393313407898,
+          "bbox": {
+            "x": 1890,
+            "y": 309,
+            "width": 336,
+            "height": 327
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.848961353302002,
+          "bbox": {
+            "x": 144,
+            "y": 302,
+            "width": 375,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8186505436897278,
+          "bbox": {
+            "x": 1873,
+            "y": 720,
+            "width": 359,
+            "height": 345
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8057365417480469,
+          "bbox": {
+            "x": 1876,
+            "y": 1195,
+            "width": 348,
+            "height": 321
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.791282594203949,
+          "bbox": {
+            "x": 563,
+            "y": 314,
+            "width": 377,
+            "height": 329
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7842214703559875,
+          "bbox": {
+            "x": 1439,
+            "y": 715,
+            "width": 388,
+            "height": 361
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.765125036239624,
+          "bbox": {
+            "x": 1442,
+            "y": 1194,
+            "width": 375,
+            "height": 318
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7635639309883118,
+          "bbox": {
+            "x": 1014,
+            "y": 303,
+            "width": 366,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7172605991363525,
+          "bbox": {
+            "x": 145,
+            "y": 717,
+            "width": 377,
+            "height": 360
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7166673541069031,
+          "bbox": {
+            "x": 1003,
+            "y": 713,
+            "width": 382,
+            "height": 355
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6832348108291626,
+          "bbox": {
+            "x": 579,
+            "y": 725,
+            "width": 350,
+            "height": 350
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6633614301681519,
+          "bbox": {
+            "x": 1015,
+            "y": 1198,
+            "width": 364,
+            "height": 302
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6558189392089844,
+          "bbox": {
+            "x": 564,
+            "y": 1202,
+            "width": 375,
+            "height": 315
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.641175389289856,
+          "bbox": {
+            "x": 108,
+            "y": 1161,
+            "width": 390,
+            "height": 378
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3380240499973297,
+          "bbox": {
+            "x": 2188,
+            "y": 3149,
+            "width": 111,
+            "height": 130
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.34635284543037415,
+          "bbox": {
+            "x": 2179,
+            "y": 3144,
+            "width": 117,
+            "height": 127
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3421545922756195,
+          "bbox": {
+            "x": 2192,
+            "y": 3143,
+            "width": 99,
+            "height": 124
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3096410930156708,
+          "bbox": {
+            "x": 2190,
+            "y": 3154,
+            "width": 108,
+            "height": 116
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.36599746346473694,
+          "bbox": {
+            "x": 2186,
+            "y": 3144,
+            "width": 112,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3733677566051483,
+          "bbox": {
+            "x": 2197,
+            "y": 3157,
+            "width": 109,
+            "height": 116
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.35307714343070984,
+          "bbox": {
+            "x": 2193,
+            "y": 3155,
+            "width": 108,
+            "height": 126
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.33321696519851685,
+          "bbox": {
+            "x": 2197,
+            "y": 3150,
+            "width": 85,
+            "height": 125
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.42453959584236145,
+          "bbox": {
+            "x": 839,
+            "y": 3033,
+            "width": 483,
+            "height": 244
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.36960363388061523,
+          "bbox": {
+            "x": 2190,
+            "y": 3151,
+            "width": 107,
+            "height": 133
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8807597756385803,
+          "bbox": {
+            "x": 1446,
+            "y": 308,
+            "width": 372,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8780388832092285,
+          "bbox": {
+            "x": 1453,
+            "y": 723,
+            "width": 359,
+            "height": 338
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8606617450714111,
+          "bbox": {
+            "x": 1875,
+            "y": 300,
+            "width": 358,
+            "height": 342
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8591125011444092,
+          "bbox": {
+            "x": 136,
+            "y": 722,
+            "width": 385,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8451762199401855,
+          "bbox": {
+            "x": 1013,
+            "y": 295,
+            "width": 377,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8269749879837036,
+          "bbox": {
+            "x": 144,
+            "y": 295,
+            "width": 375,
+            "height": 352
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8237057328224182,
+          "bbox": {
+            "x": 1878,
+            "y": 725,
+            "width": 351,
+            "height": 338
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.801830530166626,
+          "bbox": {
+            "x": 1882,
+            "y": 1146,
+            "width": 335,
+            "height": 347
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7916654348373413,
+          "bbox": {
+            "x": 1025,
+            "y": 1139,
+            "width": 342,
+            "height": 357
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7887395620346069,
+          "bbox": {
+            "x": 1446,
+            "y": 1139,
+            "width": 368,
+            "height": 365
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7851158976554871,
+          "bbox": {
+            "x": 584,
+            "y": 1147,
+            "width": 338,
+            "height": 354
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7824587821960449,
+          "bbox": {
+            "x": 569,
+            "y": 301,
+            "width": 371,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7670086622238159,
+          "bbox": {
+            "x": 574,
+            "y": 722,
+            "width": 354,
+            "height": 352
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.762091338634491,
+          "bbox": {
+            "x": 138,
+            "y": 1134,
+            "width": 375,
+            "height": 368
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.760701060295105,
+          "bbox": {
+            "x": 1000,
+            "y": 714,
+            "width": 391,
+            "height": 345
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.30662328004837036,
+          "bbox": {
+            "x": 2185,
+            "y": 3141,
+            "width": 115,
+            "height": 134
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.43993887305259705,
+          "bbox": {
+            "x": 2190,
+            "y": 3147,
+            "width": 115,
+            "height": 141
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3856651484966278,
+          "bbox": {
+            "x": 934,
+            "y": 3003,
+            "width": 219,
+            "height": 85
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8804625868797302,
+          "bbox": {
+            "x": 1464,
+            "y": 321,
+            "width": 341,
+            "height": 315
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8613163232803345,
+          "bbox": {
+            "x": 1890,
+            "y": 309,
+            "width": 336,
+            "height": 328
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8453880548477173,
+          "bbox": {
+            "x": 144,
+            "y": 302,
+            "width": 376,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8131257891654968,
+          "bbox": {
+            "x": 1873,
+            "y": 720,
+            "width": 360,
+            "height": 344
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8068732023239136,
+          "bbox": {
+            "x": 1877,
+            "y": 1194,
+            "width": 348,
+            "height": 321
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7868428826332092,
+          "bbox": {
+            "x": 1439,
+            "y": 714,
+            "width": 389,
+            "height": 361
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7797116637229919,
+          "bbox": {
+            "x": 563,
+            "y": 315,
+            "width": 378,
+            "height": 329
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7714163661003113,
+          "bbox": {
+            "x": 1016,
+            "y": 304,
+            "width": 363,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7618275284767151,
+          "bbox": {
+            "x": 1443,
+            "y": 1194,
+            "width": 373,
+            "height": 318
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7298468947410583,
+          "bbox": {
+            "x": 1004,
+            "y": 712,
+            "width": 383,
+            "height": 354
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7246416211128235,
+          "bbox": {
+            "x": 147,
+            "y": 718,
+            "width": 374,
+            "height": 358
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.684788703918457,
+          "bbox": {
+            "x": 580,
+            "y": 725,
+            "width": 349,
+            "height": 351
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.66950523853302,
+          "bbox": {
+            "x": 1016,
+            "y": 1198,
+            "width": 362,
+            "height": 302
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.65488201379776,
+          "bbox": {
+            "x": 565,
+            "y": 1203,
+            "width": 374,
+            "height": 314
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6432386040687561,
+          "bbox": {
+            "x": 108,
+            "y": 1161,
+            "width": 390,
+            "height": 377
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3386101722717285,
+          "bbox": {
+            "x": 2188,
+            "y": 3149,
+            "width": 112,
+            "height": 129
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7130512595176697,
+          "bbox": {
+            "x": 1102,
+            "y": 1978,
+            "width": 477,
+            "height": 452
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7528557181358337,
+          "bbox": {
+            "x": 1259,
+            "y": 2801,
+            "width": 484,
+            "height": 455
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4237068295478821,
+          "bbox": {
+            "x": 855,
+            "y": 2925,
+            "width": 194,
+            "height": 110
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3382718861103058,
+          "bbox": {
+            "x": 2195,
+            "y": 3158,
+            "width": 99,
+            "height": 118
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.2999972999095917,
+          "bbox": {
+            "x": 2193,
+            "y": 3179,
+            "width": 112,
+            "height": 112
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3638238310813904,
+          "bbox": {
+            "x": 2176,
+            "y": 3167,
+            "width": 120,
+            "height": 113
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.4032711386680603,
+          "bbox": {
+            "x": 2163,
+            "y": 3156,
+            "width": 127,
+            "height": 139
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_10.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.40409091114997864,
+          "bbox": {
+            "x": 2189,
+            "y": 3148,
+            "width": 109,
+            "height": 130
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_11.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3066961467266083,
+          "bbox": {
+            "x": 2172,
+            "y": 3147,
+            "width": 116,
+            "height": 128
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Археология-.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8640487790107727,
+          "bbox": {
+            "x": 1561,
+            "y": 1395,
+            "width": 454,
+            "height": 456
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6887639164924622,
+          "bbox": {
+            "x": 691,
+            "y": 1377,
+            "width": 459,
+            "height": 515
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.504340410232544,
+          "bbox": {
+            "x": 427,
+            "y": 1551,
+            "width": 354,
+            "height": 152
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.31054189801216125,
+          "bbox": {
+            "x": 1329,
+            "y": 1611,
+            "width": 342,
+            "height": 160
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Археология-.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Археология-2.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.795954167842865,
+          "bbox": {
+            "x": 1553,
+            "y": 1438,
+            "width": 463,
+            "height": 457
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7515686750411987,
+          "bbox": {
+            "x": 702,
+            "y": 1387,
+            "width": 412,
+            "height": 459
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Археология-2.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Археология-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8355886936187744,
+          "bbox": {
+            "x": 1563,
+            "y": 1397,
+            "width": 446,
+            "height": 459
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7075357437133789,
+          "bbox": {
+            "x": 694,
+            "y": 1371,
+            "width": 458,
+            "height": 532
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4089033007621765,
+          "bbox": {
+            "x": 420,
+            "y": 1539,
+            "width": 373,
+            "height": 173
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.29449662566185,
+          "bbox": {
+            "x": 1336,
+            "y": 1626,
+            "width": 331,
+            "height": 135
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Археология-31-.pdf"
+    },
+    {
+      "image": "temp_images\\археология-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\археология-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\археология-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8111324906349182,
+          "bbox": {
+            "x": 1550,
+            "y": 1437,
+            "width": 472,
+            "height": 459
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7597036957740784,
+          "bbox": {
+            "x": 704,
+            "y": 1390,
+            "width": 416,
+            "height": 458
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\археология-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.704633891582489,
+          "bbox": {
+            "x": 1395,
+            "y": 1443,
+            "width": 452,
+            "height": 227
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6985167860984802,
+          "bbox": {
+            "x": 1024,
+            "y": 1095,
+            "width": 447,
+            "height": 451
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.6794592142105103,
+          "bbox": {
+            "x": 950,
+            "y": 784,
+            "width": 405,
+            "height": 218
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4037822186946869,
+          "bbox": {
+            "x": 939,
+            "y": 997,
+            "width": 437,
+            "height": 213
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-2.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7751493453979492,
+          "bbox": {
+            "x": 985,
+            "y": 1057,
+            "width": 478,
+            "height": 456
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3711283206939697,
+          "bbox": {
+            "x": 1447,
+            "y": 1509,
+            "width": 134,
+            "height": 78
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.25935834646224976,
+          "bbox": {
+            "x": 1357,
+            "y": 1489,
+            "width": 223,
+            "height": 90
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-2.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.7279428243637085,
+          "bbox": {
+            "x": 1396,
+            "y": 1446,
+            "width": 444,
+            "height": 224
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.665880560874939,
+          "bbox": {
+            "x": 1032,
+            "y": 1100,
+            "width": 425,
+            "height": 445
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.5568156838417053,
+          "bbox": {
+            "x": 939,
+            "y": 782,
+            "width": 430,
+            "height": 224
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.40711459517478943,
+          "bbox": {
+            "x": 940,
+            "y": 1005,
+            "width": 444,
+            "height": 211
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7824180126190186,
+          "bbox": {
+            "x": 984,
+            "y": 1047,
+            "width": 484,
+            "height": 477
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.27178749442100525,
+          "bbox": {
+            "x": 1441,
+            "y": 1514,
+            "width": 152,
+            "height": 66
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7664345502853394,
+          "bbox": {
+            "x": 550,
+            "y": 1151,
+            "width": 472,
+            "height": 458
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7556455731391907,
+          "bbox": {
+            "x": 770,
+            "y": 1513,
+            "width": 476,
+            "height": 569
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6579036712646484,
+          "bbox": {
+            "x": 518,
+            "y": 1955,
+            "width": 469,
+            "height": 475
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8377456068992615,
+          "bbox": {
+            "x": 549,
+            "y": 1149,
+            "width": 480,
+            "height": 458
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7340326309204102,
+          "bbox": {
+            "x": 773,
+            "y": 1520,
+            "width": 471,
+            "height": 560
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7043172717094421,
+          "bbox": {
+            "x": 519,
+            "y": 1957,
+            "width": 467,
+            "height": 472
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3383169174194336,
+          "bbox": {
+            "x": 947,
+            "y": 1988,
+            "width": 209,
+            "height": 65
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8351949453353882,
+          "bbox": {
+            "x": 551,
+            "y": 1203,
+            "width": 466,
+            "height": 464
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6830697655677795,
+          "bbox": {
+            "x": 792,
+            "y": 1630,
+            "width": 461,
+            "height": 410
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4050533175468445,
+          "bbox": {
+            "x": 824,
+            "y": 1645,
+            "width": 409,
+            "height": 298
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7523153424263,
+          "bbox": {
+            "x": 604,
+            "y": 2008,
+            "width": 444,
+            "height": 453
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.4171944260597229,
+          "bbox": {
+            "x": 1002,
+            "y": 1907,
+            "width": 402,
+            "height": 255
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3886295557022095,
+          "bbox": {
+            "x": 1001,
+            "y": 1940,
+            "width": 425,
+            "height": 179
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\лицензия-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.6971259117126465,
+          "bbox": {
+            "x": 1157,
+            "y": 2746,
+            "width": 430,
+            "height": 412
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6899009346961975,
+          "bbox": {
+            "x": 144,
+            "y": 2767,
+            "width": 442,
+            "height": 375
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6609941720962524,
+          "bbox": {
+            "x": 1660,
+            "y": 2746,
+            "width": 438,
+            "height": 412
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.623314619064331,
+          "bbox": {
+            "x": 649,
+            "y": 2755,
+            "width": 443,
+            "height": 389
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3306567370891571,
+          "bbox": {
+            "x": 1699,
+            "y": 207,
+            "width": 266,
+            "height": 220
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.26204830408096313,
+          "bbox": {
+            "x": 1711,
+            "y": 220,
+            "width": 236,
+            "height": 197
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\лицензия-.pdf"
+    },
+    {
+      "image": "temp_images\\лицензия-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.7958799600601196,
+          "bbox": {
+            "x": 1158,
+            "y": 2796,
+            "width": 385,
+            "height": 407
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.78218674659729,
+          "bbox": {
+            "x": 652,
+            "y": 2800,
+            "width": 384,
+            "height": 400
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.769658088684082,
+          "bbox": {
+            "x": 1666,
+            "y": 2801,
+            "width": 376,
+            "height": 403
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7153091430664062,
+          "bbox": {
+            "x": 141,
+            "y": 2803,
+            "width": 394,
+            "height": 389
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\лицензия-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.5980685353279114,
+          "bbox": {
+            "x": 1015,
+            "y": 294,
+            "width": 365,
+            "height": 187
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.46853750944137573,
+          "bbox": {
+            "x": 1152,
+            "y": 433,
+            "width": 416,
+            "height": 166
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2655006945133209,
+          "bbox": {
+            "x": 1222,
+            "y": 455,
+            "width": 534,
+            "height": 185
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\локалсмета-.pdf"
+    },
+    {
+      "image": "temp_images\\Локалсмета-2_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Локалсмета-2.pdf"
+    },
+    {
+      "image": "temp_images\\Локалсмета-2_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Локалсмета-2.pdf"
+    },
+    {
+      "image": "temp_images\\Локалсмета-2_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.6670998334884644,
+          "bbox": {
+            "x": 1374,
+            "y": 473,
+            "width": 323,
+            "height": 119
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Локалсмета-2.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-32-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-32-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-32-_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-32-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-32-_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.6460917592048645,
+          "bbox": {
+            "x": 1372,
+            "y": 479,
+            "width": 326,
+            "height": 117
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\локалсмета-32-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсметчб-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсметчб-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсметчб-_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсметчб-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсметчб-_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.5516464114189148,
+          "bbox": {
+            "x": 1017,
+            "y": 301,
+            "width": 363,
+            "height": 178
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.45737507939338684,
+          "bbox": {
+            "x": 1177,
+            "y": 464,
+            "width": 389,
+            "height": 158
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\локалсметчб-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-1_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6946907639503479,
+          "bbox": {
+            "x": 1031,
+            "y": 1717,
+            "width": 462,
+            "height": 459
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-1.pdf"
+    },
+    {
+      "image": "temp_images\\отр-1_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-1.pdf"
+    },
+    {
+      "image": "temp_images\\отр-11_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6957610845565796,
+          "bbox": {
+            "x": 1049,
+            "y": 1695,
+            "width": 465,
+            "height": 437
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-11.pdf"
+    },
+    {
+      "image": "temp_images\\отр-11_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-11.pdf"
+    },
+    {
+      "image": "temp_images\\отр-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.784450352191925,
+          "bbox": {
+            "x": 1074,
+            "y": 1971,
+            "width": 468,
+            "height": 440
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.29071658849716187,
+          "bbox": {
+            "x": 851,
+            "y": 2029,
+            "width": 358,
+            "height": 155
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-2.pdf"
+    },
+    {
+      "image": "temp_images\\отр-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-2.pdf"
+    },
+    {
+      "image": "temp_images\\отр-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7452839016914368,
+          "bbox": {
+            "x": 1343,
+            "y": 2820,
+            "width": 478,
+            "height": 439
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3410126268863678,
+          "bbox": {
+            "x": 1655,
+            "y": 2885,
+            "width": 433,
+            "height": 258
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-2.pdf"
+    },
+    {
+      "image": "temp_images\\отр-22_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7241697907447815,
+          "bbox": {
+            "x": 1101,
+            "y": 1974,
+            "width": 482,
+            "height": 456
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-22.pdf"
+    },
+    {
+      "image": "temp_images\\отр-22_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-22.pdf"
+    },
+    {
+      "image": "temp_images\\отр-22_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.753248929977417,
+          "bbox": {
+            "x": 1260,
+            "y": 2804,
+            "width": 479,
+            "height": 446
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4102722406387329,
+          "bbox": {
+            "x": 858,
+            "y": 2921,
+            "width": 191,
+            "height": 119
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-22.pdf"
+    },
+    {
+      "image": "temp_images\\отр-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7111547589302063,
+          "bbox": {
+            "x": 1038,
+            "y": 1704,
+            "width": 456,
+            "height": 479
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-31-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-31-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-32-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7705009579658508,
+          "bbox": {
+            "x": 1078,
+            "y": 1970,
+            "width": 471,
+            "height": 447
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-32-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-32-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-32-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-32-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7468260526657104,
+          "bbox": {
+            "x": 1346,
+            "y": 2814,
+            "width": 477,
+            "height": 453
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-32-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6704021096229553,
+          "bbox": {
+            "x": 1032,
+            "y": 1667,
+            "width": 473,
+            "height": 496
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-41-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-41-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-41-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7656317353248596,
+          "bbox": {
+            "x": 1456,
+            "y": 2329,
+            "width": 424,
+            "height": 451
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4090600311756134,
+          "bbox": {
+            "x": 1165,
+            "y": 2633,
+            "width": 332,
+            "height": 173
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7663202881813049,
+          "bbox": {
+            "x": 1077,
+            "y": 295,
+            "width": 462,
+            "height": 425
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.798908531665802,
+          "bbox": {
+            "x": 1297,
+            "y": 2361,
+            "width": 490,
+            "height": 431
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7988555431365967,
+          "bbox": {
+            "x": 1069,
+            "y": 283,
+            "width": 476,
+            "height": 431
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6876689195632935,
+          "bbox": {
+            "x": 1427,
+            "y": 2341,
+            "width": 469,
+            "height": 453
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.36145952343940735,
+          "bbox": {
+            "x": 1166,
+            "y": 2636,
+            "width": 332,
+            "height": 172
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7873457670211792,
+          "bbox": {
+            "x": 1077,
+            "y": 292,
+            "width": 466,
+            "height": 432
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7725575566291809,
+          "bbox": {
+            "x": 1293,
+            "y": 2361,
+            "width": 495,
+            "height": 429
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8168259859085083,
+          "bbox": {
+            "x": 1068,
+            "y": 280,
+            "width": 479,
+            "height": 439
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2787424921989441,
+          "bbox": {
+            "x": 1282,
+            "y": 753,
+            "width": 205,
+            "height": 76
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.621125340461731,
+          "bbox": {
+            "x": 463,
+            "y": 84,
+            "width": 468,
+            "height": 399
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.30900391936302185,
+          "bbox": {
+            "x": 242,
+            "y": 297,
+            "width": 310,
+            "height": 117
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8528568148612976,
+          "bbox": {
+            "x": 1399,
+            "y": 352,
+            "width": 479,
+            "height": 463
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.676232635974884,
+          "bbox": {
+            "x": 1817,
+            "y": 333,
+            "width": 357,
+            "height": 211
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-.pdf"
+    },
+    {
+      "image": "temp_images\\Перечень-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7803541421890259,
+          "bbox": {
+            "x": 460,
+            "y": 59,
+            "width": 449,
+            "height": 431
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Перечень-2.pdf"
+    },
+    {
+      "image": "temp_images\\Перечень-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7823218703269958,
+          "bbox": {
+            "x": 1399,
+            "y": 344,
+            "width": 467,
+            "height": 422
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3161907494068146,
+          "bbox": {
+            "x": 1138,
+            "y": 260,
+            "width": 144,
+            "height": 78
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Перечень-2.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6887881755828857,
+          "bbox": {
+            "x": 471,
+            "y": 112,
+            "width": 436,
+            "height": 388
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.26618435978889465,
+          "bbox": {
+            "x": 244,
+            "y": 299,
+            "width": 306,
+            "height": 111
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-31-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.833977997303009,
+          "bbox": {
+            "x": 1401,
+            "y": 353,
+            "width": 481,
+            "height": 461
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.6493173241615295,
+          "bbox": {
+            "x": 1805,
+            "y": 336,
+            "width": 380,
+            "height": 212
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-31-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-32-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7495281100273132,
+          "bbox": {
+            "x": 451,
+            "y": 33,
+            "width": 451,
+            "height": 467
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-32-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-32-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7645807266235352,
+          "bbox": {
+            "x": 1401,
+            "y": 344,
+            "width": 465,
+            "height": 429
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-32-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\письмо-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7703938484191895,
+          "bbox": {
+            "x": 1143,
+            "y": 566,
+            "width": 471,
+            "height": 454
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-11_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\письмо-11.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-11_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7920418381690979,
+          "bbox": {
+            "x": 1234,
+            "y": 648,
+            "width": 462,
+            "height": 453
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2977895438671112,
+          "bbox": {
+            "x": 1161,
+            "y": 631,
+            "width": 266,
+            "height": 103
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-11.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8239648342132568,
+          "bbox": {
+            "x": 1406,
+            "y": 1983,
+            "width": 421,
+            "height": 443
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.6077582836151123,
+          "bbox": {
+            "x": 987,
+            "y": 2038,
+            "width": 405,
+            "height": 272
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.267662912607193,
+          "bbox": {
+            "x": 982,
+            "y": 2044,
+            "width": 412,
+            "height": 235
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Письмо-2.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-22_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8131445646286011,
+          "bbox": {
+            "x": 1366,
+            "y": 1947,
+            "width": 438,
+            "height": 444
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-22.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\письмо-31-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6682999134063721,
+          "bbox": {
+            "x": 1149,
+            "y": 562,
+            "width": 489,
+            "height": 449
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-31-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-32-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7621970176696777,
+          "bbox": {
+            "x": 1405,
+            "y": 1980,
+            "width": 414,
+            "height": 452
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.45230358839035034,
+          "bbox": {
+            "x": 980,
+            "y": 2052,
+            "width": 424,
+            "height": 252
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-32-.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Письмо-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-41-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7219698429107666,
+          "bbox": {
+            "x": 1221,
+            "y": 645,
+            "width": 465,
+            "height": 477
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.32035547494888306,
+          "bbox": {
+            "x": 1156,
+            "y": 628,
+            "width": 270,
+            "height": 144
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Письмо-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-42_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7581639885902405,
+          "bbox": {
+            "x": 1364,
+            "y": 1954,
+            "width": 437,
+            "height": 439
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2511700689792633,
+          "bbox": {
+            "x": 1187,
+            "y": 2095,
+            "width": 270,
+            "height": 107
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Письмо-42.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8235848546028137,
+          "bbox": {
+            "x": 550,
+            "y": 1199,
+            "width": 462,
+            "height": 468
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7721784114837646,
+          "bbox": {
+            "x": 801,
+            "y": 1617,
+            "width": 444,
+            "height": 426
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.44484424591064453,
+          "bbox": {
+            "x": 817,
+            "y": 1639,
+            "width": 423,
+            "height": 303
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7571011185646057,
+          "bbox": {
+            "x": 599,
+            "y": 2006,
+            "width": 455,
+            "height": 454
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4551059603691101,
+          "bbox": {
+            "x": 1001,
+            "y": 1948,
+            "width": 361,
+            "height": 190
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.39649420976638794,
+          "bbox": {
+            "x": 996,
+            "y": 1905,
+            "width": 413,
+            "height": 261
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\разрешназемл-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7117013335227966,
+          "bbox": {
+            "x": 1375,
+            "y": 2386,
+            "width": 427,
+            "height": 422
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\разрешназемл-2.pdf"
+    },
+    {
+      "image": "temp_images\\разрешназемлю-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.895818829536438,
+          "bbox": {
+            "x": 1405,
+            "y": 2366,
+            "width": 440,
+            "height": 450
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.28784579038619995,
+          "bbox": {
+            "x": 1751,
+            "y": 2483,
+            "width": 318,
+            "height": 207
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\разрешназемлю-.pdf"
+    },
+    {
+      "image": "temp_images\\Разрешназемлю-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8637625575065613,
+          "bbox": {
+            "x": 1404,
+            "y": 2371,
+            "width": 453,
+            "height": 446
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.26418212056159973,
+          "bbox": {
+            "x": 1643,
+            "y": 2495,
+            "width": 446,
+            "height": 264
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Разрешназемлю-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Разрешназемлю-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6520275473594666,
+          "bbox": {
+            "x": 1386,
+            "y": 2407,
+            "width": 438,
+            "height": 395
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3964037001132965,
+          "bbox": {
+            "x": 1370,
+            "y": 2441,
+            "width": 408,
+            "height": 381
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Разрешназемлю-41-.pdf"
+    },
+    {
+      "image": "temp_images\\разрешнатех-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.7919396162033081,
+          "bbox": {
+            "x": 127,
+            "y": 2704,
+            "width": 399,
+            "height": 348
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7305057048797607,
+          "bbox": {
+            "x": 553,
+            "y": 2703,
+            "width": 417,
+            "height": 350
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6684119701385498,
+          "bbox": {
+            "x": 1046,
+            "y": 2284,
+            "width": 326,
+            "height": 329
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6550634503364563,
+          "bbox": {
+            "x": 1897,
+            "y": 2273,
+            "width": 347,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6517089605331421,
+          "bbox": {
+            "x": 1467,
+            "y": 2260,
+            "width": 351,
+            "height": 357
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.5461538434028625,
+          "bbox": {
+            "x": 104,
+            "y": 2257,
+            "width": 403,
+            "height": 380
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.5427190661430359,
+          "bbox": {
+            "x": 578,
+            "y": 2263,
+            "width": 357,
+            "height": 379
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3192349970340729,
+          "bbox": {
+            "x": 2174,
+            "y": 3136,
+            "width": 111,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\разрешнатех-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7296838760375977,
+          "bbox": {
+            "x": 1346,
+            "y": 308,
+            "width": 473,
+            "height": 484
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6928728818893433,
+          "bbox": {
+            "x": 1495,
+            "y": 2457,
+            "width": 454,
+            "height": 421
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7548316121101379,
+          "bbox": {
+            "x": 1367,
+            "y": 279,
+            "width": 468,
+            "height": 505
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7873403429985046,
+          "bbox": {
+            "x": 1478,
+            "y": 2416,
+            "width": 468,
+            "height": 460
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7549454569816589,
+          "bbox": {
+            "x": 1376,
+            "y": 311,
+            "width": 429,
+            "height": 452
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7071565389633179,
+          "bbox": {
+            "x": 1493,
+            "y": 2457,
+            "width": 455,
+            "height": 425
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.751176118850708,
+          "bbox": {
+            "x": 1364,
+            "y": 275,
+            "width": 474,
+            "height": 513
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-41-чб_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7434940338134766,
+          "bbox": {
+            "x": 1478,
+            "y": 2397,
+            "width": 475,
+            "height": 480
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7403037548065186,
+          "bbox": {
+            "x": 888,
+            "y": 1726,
+            "width": 473,
+            "height": 480
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.629711925983429,
+          "bbox": {
+            "x": 1168,
+            "y": 1520,
+            "width": 461,
+            "height": 415
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7681171894073486,
+          "bbox": {
+            "x": 1073,
+            "y": 1536,
+            "width": 445,
+            "height": 401
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7366808652877808,
+          "bbox": {
+            "x": 866,
+            "y": 1786,
+            "width": 452,
+            "height": 525
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.25443968176841736,
+          "bbox": {
+            "x": 1088,
+            "y": 1522,
+            "width": 451,
+            "height": 367
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7391724586486816,
+          "bbox": {
+            "x": 887,
+            "y": 1724,
+            "width": 476,
+            "height": 485
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6352095007896423,
+          "bbox": {
+            "x": 1163,
+            "y": 1519,
+            "width": 468,
+            "height": 398
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7621906399726868,
+          "bbox": {
+            "x": 1071,
+            "y": 1538,
+            "width": 453,
+            "height": 402
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.746321439743042,
+          "bbox": {
+            "x": 864,
+            "y": 1782,
+            "width": 453,
+            "height": 532
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2586289942264557,
+          "bbox": {
+            "x": 1083,
+            "y": 1525,
+            "width": 466,
+            "height": 358
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\чертеж-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8339492082595825,
+          "bbox": {
+            "x": 854,
+            "y": 1822,
+            "width": 425,
+            "height": 457
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6466320157051086,
+          "bbox": {
+            "x": 1973,
+            "y": 1875,
+            "width": 469,
+            "height": 450
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\чертеж-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.34229692816734314,
+          "bbox": {
+            "x": 2179,
+            "y": 3144,
+            "width": 117,
+            "height": 127
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3328196108341217,
+          "bbox": {
+            "x": 2192,
+            "y": 3143,
+            "width": 98,
+            "height": 126
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.31159475445747375,
+          "bbox": {
+            "x": 2189,
+            "y": 3154,
+            "width": 109,
+            "height": 115
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.37071090936660767,
+          "bbox": {
+            "x": 2186,
+            "y": 3143,
+            "width": 111,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.38108131289482117,
+          "bbox": {
+            "x": 2196,
+            "y": 3156,
+            "width": 110,
+            "height": 118
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3567046523094177,
+          "bbox": {
+            "x": 2193,
+            "y": 3155,
+            "width": 108,
+            "height": 126
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.33950117230415344,
+          "bbox": {
+            "x": 2198,
+            "y": 3150,
+            "width": 84,
+            "height": 124
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.3750688135623932,
+          "bbox": {
+            "x": 862,
+            "y": 3038,
+            "width": 516,
+            "height": 241
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.37038087844848633,
+          "bbox": {
+            "x": 2190,
+            "y": 3152,
+            "width": 107,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8785062432289124,
+          "bbox": {
+            "x": 1446,
+            "y": 308,
+            "width": 372,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8777519464492798,
+          "bbox": {
+            "x": 1453,
+            "y": 723,
+            "width": 359,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8634712100028992,
+          "bbox": {
+            "x": 136,
+            "y": 721,
+            "width": 385,
+            "height": 335
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8528187870979309,
+          "bbox": {
+            "x": 1875,
+            "y": 300,
+            "width": 358,
+            "height": 343
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8424723148345947,
+          "bbox": {
+            "x": 1013,
+            "y": 296,
+            "width": 378,
+            "height": 333
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8299639821052551,
+          "bbox": {
+            "x": 143,
+            "y": 294,
+            "width": 376,
+            "height": 354
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8277775049209595,
+          "bbox": {
+            "x": 1878,
+            "y": 725,
+            "width": 350,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8049017786979675,
+          "bbox": {
+            "x": 1881,
+            "y": 1145,
+            "width": 336,
+            "height": 347
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7862992286682129,
+          "bbox": {
+            "x": 1026,
+            "y": 1139,
+            "width": 341,
+            "height": 357
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7855868339538574,
+          "bbox": {
+            "x": 1447,
+            "y": 1139,
+            "width": 366,
+            "height": 367
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7808275818824768,
+          "bbox": {
+            "x": 570,
+            "y": 302,
+            "width": 369,
+            "height": 345
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7780578136444092,
+          "bbox": {
+            "x": 585,
+            "y": 1146,
+            "width": 338,
+            "height": 356
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7607890963554382,
+          "bbox": {
+            "x": 138,
+            "y": 1134,
+            "width": 376,
+            "height": 368
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7558598518371582,
+          "bbox": {
+            "x": 999,
+            "y": 714,
+            "width": 393,
+            "height": 343
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7554710507392883,
+          "bbox": {
+            "x": 576,
+            "y": 723,
+            "width": 351,
+            "height": 352
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.31484150886535645,
+          "bbox": {
+            "x": 2185,
+            "y": 3141,
+            "width": 115,
+            "height": 133
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.35826539993286133,
+          "bbox": {
+            "x": 2177,
+            "y": 3143,
+            "width": 115,
+            "height": 129
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3480474650859833,
+          "bbox": {
+            "x": 2193,
+            "y": 3158,
+            "width": 102,
+            "height": 119
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3112088143825531,
+          "bbox": {
+            "x": 2193,
+            "y": 3178,
+            "width": 111,
+            "height": 113
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3625197410583496,
+          "bbox": {
+            "x": 2175,
+            "y": 3167,
+            "width": 120,
+            "height": 113
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3950585424900055,
+          "bbox": {
+            "x": 2163,
+            "y": 3157,
+            "width": 127,
+            "height": 138
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.4000255763530731,
+          "bbox": {
+            "x": 2188,
+            "y": 3148,
+            "width": 109,
+            "height": 131
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3050078749656677,
+          "bbox": {
+            "x": 2172,
+            "y": 3148,
+            "width": 117,
+            "height": 128
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.4829785227775574,
+          "bbox": {
+            "x": 979,
+            "y": 3001,
+            "width": 178,
+            "height": 92
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.44419053196907043,
+          "bbox": {
+            "x": 2190,
+            "y": 3147,
+            "width": 116,
+            "height": 141
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-2_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8844115734100342,
+          "bbox": {
+            "x": 1464,
+            "y": 321,
+            "width": 342,
+            "height": 315
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8631393313407898,
+          "bbox": {
+            "x": 1890,
+            "y": 309,
+            "width": 336,
+            "height": 327
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.848961353302002,
+          "bbox": {
+            "x": 144,
+            "y": 302,
+            "width": 375,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8186505436897278,
+          "bbox": {
+            "x": 1873,
+            "y": 720,
+            "width": 359,
+            "height": 345
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8057365417480469,
+          "bbox": {
+            "x": 1876,
+            "y": 1195,
+            "width": 348,
+            "height": 321
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.791282594203949,
+          "bbox": {
+            "x": 563,
+            "y": 314,
+            "width": 377,
+            "height": 329
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7842214703559875,
+          "bbox": {
+            "x": 1439,
+            "y": 715,
+            "width": 388,
+            "height": 361
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.765125036239624,
+          "bbox": {
+            "x": 1442,
+            "y": 1194,
+            "width": 375,
+            "height": 318
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7635639309883118,
+          "bbox": {
+            "x": 1014,
+            "y": 303,
+            "width": 366,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7172605991363525,
+          "bbox": {
+            "x": 145,
+            "y": 717,
+            "width": 377,
+            "height": 360
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7166673541069031,
+          "bbox": {
+            "x": 1003,
+            "y": 713,
+            "width": 382,
+            "height": 355
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6832348108291626,
+          "bbox": {
+            "x": 579,
+            "y": 725,
+            "width": 350,
+            "height": 350
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6633614301681519,
+          "bbox": {
+            "x": 1015,
+            "y": 1198,
+            "width": 364,
+            "height": 302
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6558189392089844,
+          "bbox": {
+            "x": 564,
+            "y": 1202,
+            "width": 375,
+            "height": 315
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.641175389289856,
+          "bbox": {
+            "x": 108,
+            "y": 1161,
+            "width": 390,
+            "height": 378
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3380240499973297,
+          "bbox": {
+            "x": 2188,
+            "y": 3149,
+            "width": 111,
+            "height": 130
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.34635284543037415,
+          "bbox": {
+            "x": 2179,
+            "y": 3144,
+            "width": 117,
+            "height": 127
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3421545922756195,
+          "bbox": {
+            "x": 2192,
+            "y": 3143,
+            "width": 99,
+            "height": 124
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3096410930156708,
+          "bbox": {
+            "x": 2190,
+            "y": 3154,
+            "width": 108,
+            "height": 116
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.36599746346473694,
+          "bbox": {
+            "x": 2186,
+            "y": 3144,
+            "width": 112,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3733677566051483,
+          "bbox": {
+            "x": 2197,
+            "y": 3157,
+            "width": 109,
+            "height": 116
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.35307714343070984,
+          "bbox": {
+            "x": 2193,
+            "y": 3155,
+            "width": 108,
+            "height": 126
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.33321696519851685,
+          "bbox": {
+            "x": 2197,
+            "y": 3150,
+            "width": 85,
+            "height": 125
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.42453959584236145,
+          "bbox": {
+            "x": 839,
+            "y": 3033,
+            "width": 483,
+            "height": 244
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.36960363388061523,
+          "bbox": {
+            "x": 2190,
+            "y": 3151,
+            "width": 107,
+            "height": 133
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-31-_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8807597756385803,
+          "bbox": {
+            "x": 1446,
+            "y": 308,
+            "width": 372,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8780388832092285,
+          "bbox": {
+            "x": 1453,
+            "y": 723,
+            "width": 359,
+            "height": 338
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8606617450714111,
+          "bbox": {
+            "x": 1875,
+            "y": 300,
+            "width": 358,
+            "height": 342
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8591125011444092,
+          "bbox": {
+            "x": 136,
+            "y": 722,
+            "width": 385,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8451762199401855,
+          "bbox": {
+            "x": 1013,
+            "y": 295,
+            "width": 377,
+            "height": 334
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8269749879837036,
+          "bbox": {
+            "x": 144,
+            "y": 295,
+            "width": 375,
+            "height": 352
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8237057328224182,
+          "bbox": {
+            "x": 1878,
+            "y": 725,
+            "width": 351,
+            "height": 338
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.801830530166626,
+          "bbox": {
+            "x": 1882,
+            "y": 1146,
+            "width": 335,
+            "height": 347
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7916654348373413,
+          "bbox": {
+            "x": 1025,
+            "y": 1139,
+            "width": 342,
+            "height": 357
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7887395620346069,
+          "bbox": {
+            "x": 1446,
+            "y": 1139,
+            "width": 368,
+            "height": 365
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7851158976554871,
+          "bbox": {
+            "x": 584,
+            "y": 1147,
+            "width": 338,
+            "height": 354
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7824587821960449,
+          "bbox": {
+            "x": 569,
+            "y": 301,
+            "width": 371,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7670086622238159,
+          "bbox": {
+            "x": 574,
+            "y": 722,
+            "width": 354,
+            "height": 352
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.762091338634491,
+          "bbox": {
+            "x": 138,
+            "y": 1134,
+            "width": 375,
+            "height": 368
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.760701060295105,
+          "bbox": {
+            "x": 1000,
+            "y": 714,
+            "width": 391,
+            "height": 345
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.30662328004837036,
+          "bbox": {
+            "x": 2185,
+            "y": 3141,
+            "width": 115,
+            "height": 134
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.43993887305259705,
+          "bbox": {
+            "x": 2190,
+            "y": 3147,
+            "width": 115,
+            "height": 141
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3856651484966278,
+          "bbox": {
+            "x": 934,
+            "y": 3003,
+            "width": 219,
+            "height": 85
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.8804625868797302,
+          "bbox": {
+            "x": 1464,
+            "y": 321,
+            "width": 341,
+            "height": 315
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8613163232803345,
+          "bbox": {
+            "x": 1890,
+            "y": 309,
+            "width": 336,
+            "height": 328
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8453880548477173,
+          "bbox": {
+            "x": 144,
+            "y": 302,
+            "width": 376,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8131257891654968,
+          "bbox": {
+            "x": 1873,
+            "y": 720,
+            "width": 360,
+            "height": 344
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.8068732023239136,
+          "bbox": {
+            "x": 1877,
+            "y": 1194,
+            "width": 348,
+            "height": 321
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7868428826332092,
+          "bbox": {
+            "x": 1439,
+            "y": 714,
+            "width": 389,
+            "height": 361
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7797116637229919,
+          "bbox": {
+            "x": 563,
+            "y": 315,
+            "width": 378,
+            "height": 329
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7714163661003113,
+          "bbox": {
+            "x": 1016,
+            "y": 304,
+            "width": 363,
+            "height": 339
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7618275284767151,
+          "bbox": {
+            "x": 1443,
+            "y": 1194,
+            "width": 373,
+            "height": 318
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7298468947410583,
+          "bbox": {
+            "x": 1004,
+            "y": 712,
+            "width": 383,
+            "height": 354
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7246416211128235,
+          "bbox": {
+            "x": 147,
+            "y": 718,
+            "width": 374,
+            "height": 358
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.684788703918457,
+          "bbox": {
+            "x": 580,
+            "y": 725,
+            "width": 349,
+            "height": 351
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.66950523853302,
+          "bbox": {
+            "x": 1016,
+            "y": 1198,
+            "width": 362,
+            "height": 302
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.65488201379776,
+          "bbox": {
+            "x": 565,
+            "y": 1203,
+            "width": 374,
+            "height": 314
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6432386040687561,
+          "bbox": {
+            "x": 108,
+            "y": 1161,
+            "width": 390,
+            "height": 377
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3386101722717285,
+          "bbox": {
+            "x": 2188,
+            "y": 3149,
+            "width": 112,
+            "height": 129
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7130512595176697,
+          "bbox": {
+            "x": 1102,
+            "y": 1978,
+            "width": 477,
+            "height": 452
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7528557181358337,
+          "bbox": {
+            "x": 1259,
+            "y": 2801,
+            "width": 484,
+            "height": 455
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4237068295478821,
+          "bbox": {
+            "x": 855,
+            "y": 2925,
+            "width": 194,
+            "height": 110
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_6.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3382718861103058,
+          "bbox": {
+            "x": 2195,
+            "y": 3158,
+            "width": 99,
+            "height": 118
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_7.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.2999972999095917,
+          "bbox": {
+            "x": 2193,
+            "y": 3179,
+            "width": 112,
+            "height": 112
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_8.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3638238310813904,
+          "bbox": {
+            "x": 2176,
+            "y": 3167,
+            "width": 120,
+            "height": 113
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_9.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.4032711386680603,
+          "bbox": {
+            "x": 2163,
+            "y": 3156,
+            "width": 127,
+            "height": 139
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_10.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.40409091114997864,
+          "bbox": {
+            "x": 2189,
+            "y": 3148,
+            "width": 109,
+            "height": 130
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\АПЗ-41-чб_page_11.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.3066961467266083,
+          "bbox": {
+            "x": 2172,
+            "y": 3147,
+            "width": 116,
+            "height": 128
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\АПЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Археология-.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8640487790107727,
+          "bbox": {
+            "x": 1561,
+            "y": 1395,
+            "width": 454,
+            "height": 456
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6887639164924622,
+          "bbox": {
+            "x": 691,
+            "y": 1377,
+            "width": 459,
+            "height": 515
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.504340410232544,
+          "bbox": {
+            "x": 427,
+            "y": 1551,
+            "width": 354,
+            "height": 152
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.31054189801216125,
+          "bbox": {
+            "x": 1329,
+            "y": 1611,
+            "width": 342,
+            "height": 160
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Археология-.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Археология-2.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.795954167842865,
+          "bbox": {
+            "x": 1553,
+            "y": 1438,
+            "width": 463,
+            "height": 457
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7515686750411987,
+          "bbox": {
+            "x": 702,
+            "y": 1387,
+            "width": 412,
+            "height": 459
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Археология-2.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Археология-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Археология-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8355886936187744,
+          "bbox": {
+            "x": 1563,
+            "y": 1397,
+            "width": 446,
+            "height": 459
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7075357437133789,
+          "bbox": {
+            "x": 694,
+            "y": 1371,
+            "width": 458,
+            "height": 532
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4089033007621765,
+          "bbox": {
+            "x": 420,
+            "y": 1539,
+            "width": 373,
+            "height": 173
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.29449662566185,
+          "bbox": {
+            "x": 1336,
+            "y": 1626,
+            "width": 331,
+            "height": 135
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Археология-31-.pdf"
+    },
+    {
+      "image": "temp_images\\археология-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\археология-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\археология-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8111324906349182,
+          "bbox": {
+            "x": 1550,
+            "y": 1437,
+            "width": 472,
+            "height": 459
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7597036957740784,
+          "bbox": {
+            "x": 704,
+            "y": 1390,
+            "width": 416,
+            "height": 458
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\археология-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.704633891582489,
+          "bbox": {
+            "x": 1395,
+            "y": 1443,
+            "width": 452,
+            "height": 227
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6985167860984802,
+          "bbox": {
+            "x": 1024,
+            "y": 1095,
+            "width": 447,
+            "height": 451
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.6794592142105103,
+          "bbox": {
+            "x": 950,
+            "y": 784,
+            "width": 405,
+            "height": 218
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4037822186946869,
+          "bbox": {
+            "x": 939,
+            "y": 997,
+            "width": 437,
+            "height": 213
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-2.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7751493453979492,
+          "bbox": {
+            "x": 985,
+            "y": 1057,
+            "width": 478,
+            "height": 456
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3711283206939697,
+          "bbox": {
+            "x": 1447,
+            "y": 1509,
+            "width": 134,
+            "height": 78
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.25935834646224976,
+          "bbox": {
+            "x": 1357,
+            "y": 1489,
+            "width": 223,
+            "height": 90
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-2.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.7279428243637085,
+          "bbox": {
+            "x": 1396,
+            "y": 1446,
+            "width": 444,
+            "height": 224
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.665880560874939,
+          "bbox": {
+            "x": 1032,
+            "y": 1100,
+            "width": 425,
+            "height": 445
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.5568156838417053,
+          "bbox": {
+            "x": 939,
+            "y": 782,
+            "width": 430,
+            "height": 224
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.40711459517478943,
+          "bbox": {
+            "x": 940,
+            "y": 1005,
+            "width": 444,
+            "height": 211
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дефект-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\дефект-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7824180126190186,
+          "bbox": {
+            "x": 984,
+            "y": 1047,
+            "width": 484,
+            "height": 477
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.27178749442100525,
+          "bbox": {
+            "x": 1441,
+            "y": 1514,
+            "width": 152,
+            "height": 66
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дефект-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7664345502853394,
+          "bbox": {
+            "x": 550,
+            "y": 1151,
+            "width": 472,
+            "height": 458
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7556455731391907,
+          "bbox": {
+            "x": 770,
+            "y": 1513,
+            "width": 476,
+            "height": 569
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\Дозиметр-41-чб_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6579036712646484,
+          "bbox": {
+            "x": 518,
+            "y": 1955,
+            "width": 469,
+            "height": 475
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Дозиметр-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8377456068992615,
+          "bbox": {
+            "x": 549,
+            "y": 1149,
+            "width": 480,
+            "height": 458
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7340326309204102,
+          "bbox": {
+            "x": 773,
+            "y": 1520,
+            "width": 471,
+            "height": 560
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-2_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7043172717094421,
+          "bbox": {
+            "x": 519,
+            "y": 1957,
+            "width": 467,
+            "height": 472
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3383169174194336,
+          "bbox": {
+            "x": 947,
+            "y": 1988,
+            "width": 209,
+            "height": 65
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-2.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8351949453353882,
+          "bbox": {
+            "x": 551,
+            "y": 1203,
+            "width": 466,
+            "height": 464
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6830697655677795,
+          "bbox": {
+            "x": 792,
+            "y": 1630,
+            "width": 461,
+            "height": 410
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4050533175468445,
+          "bbox": {
+            "x": 824,
+            "y": 1645,
+            "width": 409,
+            "height": 298
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\дозиметрия-31-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7523153424263,
+          "bbox": {
+            "x": 604,
+            "y": 2008,
+            "width": 444,
+            "height": 453
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.4171944260597229,
+          "bbox": {
+            "x": 1002,
+            "y": 1907,
+            "width": 402,
+            "height": 255
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3886295557022095,
+          "bbox": {
+            "x": 1001,
+            "y": 1940,
+            "width": 425,
+            "height": 179
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\дозиметрия-31-.pdf"
+    },
+    {
+      "image": "temp_images\\лицензия-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.6971259117126465,
+          "bbox": {
+            "x": 1157,
+            "y": 2746,
+            "width": 430,
+            "height": 412
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6899009346961975,
+          "bbox": {
+            "x": 144,
+            "y": 2767,
+            "width": 442,
+            "height": 375
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6609941720962524,
+          "bbox": {
+            "x": 1660,
+            "y": 2746,
+            "width": 438,
+            "height": 412
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.623314619064331,
+          "bbox": {
+            "x": 649,
+            "y": 2755,
+            "width": 443,
+            "height": 389
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3306567370891571,
+          "bbox": {
+            "x": 1699,
+            "y": 207,
+            "width": 266,
+            "height": 220
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.26204830408096313,
+          "bbox": {
+            "x": 1711,
+            "y": 220,
+            "width": 236,
+            "height": 197
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\лицензия-.pdf"
+    },
+    {
+      "image": "temp_images\\лицензия-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.7958799600601196,
+          "bbox": {
+            "x": 1158,
+            "y": 2796,
+            "width": 385,
+            "height": 407
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.78218674659729,
+          "bbox": {
+            "x": 652,
+            "y": 2800,
+            "width": 384,
+            "height": 400
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.769658088684082,
+          "bbox": {
+            "x": 1666,
+            "y": 2801,
+            "width": 376,
+            "height": 403
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7153091430664062,
+          "bbox": {
+            "x": 141,
+            "y": 2803,
+            "width": 394,
+            "height": 389
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\лицензия-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.5980685353279114,
+          "bbox": {
+            "x": 1015,
+            "y": 294,
+            "width": 365,
+            "height": 187
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.46853750944137573,
+          "bbox": {
+            "x": 1152,
+            "y": 433,
+            "width": 416,
+            "height": 166
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2655006945133209,
+          "bbox": {
+            "x": 1222,
+            "y": 455,
+            "width": 534,
+            "height": 185
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\локалсмета-.pdf"
+    },
+    {
+      "image": "temp_images\\Локалсмета-2_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Локалсмета-2.pdf"
+    },
+    {
+      "image": "temp_images\\Локалсмета-2_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Локалсмета-2.pdf"
+    },
+    {
+      "image": "temp_images\\Локалсмета-2_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.6670998334884644,
+          "bbox": {
+            "x": 1374,
+            "y": 473,
+            "width": 323,
+            "height": 119
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Локалсмета-2.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-32-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-32-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-32-_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсмета-32-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсмета-32-_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.6460917592048645,
+          "bbox": {
+            "x": 1372,
+            "y": 479,
+            "width": 326,
+            "height": 117
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\локалсмета-32-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсметчб-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсметчб-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсметчб-_page_2.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\локалсметчб-.pdf"
+    },
+    {
+      "image": "temp_images\\локалсметчб-_page_3.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "signature",
+          "confidence": 0.5516464114189148,
+          "bbox": {
+            "x": 1017,
+            "y": 301,
+            "width": 363,
+            "height": 178
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.45737507939338684,
+          "bbox": {
+            "x": 1177,
+            "y": 464,
+            "width": 389,
+            "height": 158
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\локалсметчб-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-1_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6946907639503479,
+          "bbox": {
+            "x": 1031,
+            "y": 1717,
+            "width": 462,
+            "height": 459
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-1.pdf"
+    },
+    {
+      "image": "temp_images\\отр-1_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-1.pdf"
+    },
+    {
+      "image": "temp_images\\отр-11_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6957610845565796,
+          "bbox": {
+            "x": 1049,
+            "y": 1695,
+            "width": 465,
+            "height": 437
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-11.pdf"
+    },
+    {
+      "image": "temp_images\\отр-11_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-11.pdf"
+    },
+    {
+      "image": "temp_images\\отр-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.784450352191925,
+          "bbox": {
+            "x": 1074,
+            "y": 1971,
+            "width": 468,
+            "height": 440
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.29071658849716187,
+          "bbox": {
+            "x": 851,
+            "y": 2029,
+            "width": 358,
+            "height": 155
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-2.pdf"
+    },
+    {
+      "image": "temp_images\\отр-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-2.pdf"
+    },
+    {
+      "image": "temp_images\\отр-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7452839016914368,
+          "bbox": {
+            "x": 1343,
+            "y": 2820,
+            "width": 478,
+            "height": 439
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3410126268863678,
+          "bbox": {
+            "x": 1655,
+            "y": 2885,
+            "width": 433,
+            "height": 258
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-2.pdf"
+    },
+    {
+      "image": "temp_images\\отр-22_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7241697907447815,
+          "bbox": {
+            "x": 1101,
+            "y": 1974,
+            "width": 482,
+            "height": 456
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-22.pdf"
+    },
+    {
+      "image": "temp_images\\отр-22_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-22.pdf"
+    },
+    {
+      "image": "temp_images\\отр-22_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.753248929977417,
+          "bbox": {
+            "x": 1260,
+            "y": 2804,
+            "width": 479,
+            "height": 446
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4102722406387329,
+          "bbox": {
+            "x": 858,
+            "y": 2921,
+            "width": 191,
+            "height": 119
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-22.pdf"
+    },
+    {
+      "image": "temp_images\\отр-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7111547589302063,
+          "bbox": {
+            "x": 1038,
+            "y": 1704,
+            "width": 456,
+            "height": 479
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-31-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-31-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-32-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7705009579658508,
+          "bbox": {
+            "x": 1078,
+            "y": 1970,
+            "width": 471,
+            "height": 447
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-32-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-32-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-32-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-32-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7468260526657104,
+          "bbox": {
+            "x": 1346,
+            "y": 2814,
+            "width": 477,
+            "height": 453
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-32-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6704021096229553,
+          "bbox": {
+            "x": 1032,
+            "y": 1667,
+            "width": 473,
+            "height": 496
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\отр-41-.pdf"
+    },
+    {
+      "image": "temp_images\\отр-41-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\отр-41-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7656317353248596,
+          "bbox": {
+            "x": 1456,
+            "y": 2329,
+            "width": 424,
+            "height": 451
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4090600311756134,
+          "bbox": {
+            "x": 1165,
+            "y": 2633,
+            "width": 332,
+            "height": 173
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\паспортпроекта-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7663202881813049,
+          "bbox": {
+            "x": 1077,
+            "y": 295,
+            "width": 462,
+            "height": 425
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\паспортпроекта-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.798908531665802,
+          "bbox": {
+            "x": 1297,
+            "y": 2361,
+            "width": 490,
+            "height": 431
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-2_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7988555431365967,
+          "bbox": {
+            "x": 1069,
+            "y": 283,
+            "width": 476,
+            "height": 431
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-2.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6876689195632935,
+          "bbox": {
+            "x": 1427,
+            "y": 2341,
+            "width": 469,
+            "height": 453
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.36145952343940735,
+          "bbox": {
+            "x": 1166,
+            "y": 2636,
+            "width": 332,
+            "height": 172
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-31-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7873457670211792,
+          "bbox": {
+            "x": 1077,
+            "y": 292,
+            "width": 466,
+            "height": 432
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7725575566291809,
+          "bbox": {
+            "x": 1293,
+            "y": 2361,
+            "width": 495,
+            "height": 429
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Паспортпроекта-41-_page_5.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8168259859085083,
+          "bbox": {
+            "x": 1068,
+            "y": 280,
+            "width": 479,
+            "height": 439
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2787424921989441,
+          "bbox": {
+            "x": 1282,
+            "y": 753,
+            "width": 205,
+            "height": 76
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Паспортпроекта-41-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.621125340461731,
+          "bbox": {
+            "x": 463,
+            "y": 84,
+            "width": 468,
+            "height": 399
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.30900391936302185,
+          "bbox": {
+            "x": 242,
+            "y": 297,
+            "width": 310,
+            "height": 117
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8528568148612976,
+          "bbox": {
+            "x": 1399,
+            "y": 352,
+            "width": 479,
+            "height": 463
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.676232635974884,
+          "bbox": {
+            "x": 1817,
+            "y": 333,
+            "width": 357,
+            "height": 211
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-.pdf"
+    },
+    {
+      "image": "temp_images\\Перечень-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7803541421890259,
+          "bbox": {
+            "x": 460,
+            "y": 59,
+            "width": 449,
+            "height": 431
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Перечень-2.pdf"
+    },
+    {
+      "image": "temp_images\\Перечень-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7823218703269958,
+          "bbox": {
+            "x": 1399,
+            "y": 344,
+            "width": 467,
+            "height": 422
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3161907494068146,
+          "bbox": {
+            "x": 1138,
+            "y": 260,
+            "width": 144,
+            "height": 78
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Перечень-2.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6887881755828857,
+          "bbox": {
+            "x": 471,
+            "y": 112,
+            "width": 436,
+            "height": 388
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.26618435978889465,
+          "bbox": {
+            "x": 244,
+            "y": 299,
+            "width": 306,
+            "height": 111
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-31-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.833977997303009,
+          "bbox": {
+            "x": 1401,
+            "y": 353,
+            "width": 481,
+            "height": 461
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.6493173241615295,
+          "bbox": {
+            "x": 1805,
+            "y": 336,
+            "width": 380,
+            "height": 212
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-31-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-32-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7495281100273132,
+          "bbox": {
+            "x": 451,
+            "y": 33,
+            "width": 451,
+            "height": 467
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-32-.pdf"
+    },
+    {
+      "image": "temp_images\\перечень-32-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7645807266235352,
+          "bbox": {
+            "x": 1401,
+            "y": 344,
+            "width": 465,
+            "height": 429
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\перечень-32-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\письмо-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7703938484191895,
+          "bbox": {
+            "x": 1143,
+            "y": 566,
+            "width": 471,
+            "height": 454
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-11_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\письмо-11.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-11_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7920418381690979,
+          "bbox": {
+            "x": 1234,
+            "y": 648,
+            "width": 462,
+            "height": 453
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2977895438671112,
+          "bbox": {
+            "x": 1161,
+            "y": 631,
+            "width": 266,
+            "height": 103
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-11.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8239648342132568,
+          "bbox": {
+            "x": 1406,
+            "y": 1983,
+            "width": 421,
+            "height": 443
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.6077582836151123,
+          "bbox": {
+            "x": 987,
+            "y": 2038,
+            "width": 405,
+            "height": 272
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.267662912607193,
+          "bbox": {
+            "x": 982,
+            "y": 2044,
+            "width": 412,
+            "height": 235
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Письмо-2.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-22_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8131445646286011,
+          "bbox": {
+            "x": 1366,
+            "y": 1947,
+            "width": 438,
+            "height": 444
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-22.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\письмо-31-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6682999134063721,
+          "bbox": {
+            "x": 1149,
+            "y": 562,
+            "width": 489,
+            "height": 449
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-31-.pdf"
+    },
+    {
+      "image": "temp_images\\письмо-32-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7621970176696777,
+          "bbox": {
+            "x": 1405,
+            "y": 1980,
+            "width": 414,
+            "height": 452
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.45230358839035034,
+          "bbox": {
+            "x": 980,
+            "y": 2052,
+            "width": 424,
+            "height": 252
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\письмо-32-.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\Письмо-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-41-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7219698429107666,
+          "bbox": {
+            "x": 1221,
+            "y": 645,
+            "width": 465,
+            "height": 477
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.32035547494888306,
+          "bbox": {
+            "x": 1156,
+            "y": 628,
+            "width": 270,
+            "height": 144
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Письмо-41-.pdf"
+    },
+    {
+      "image": "temp_images\\Письмо-42_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7581639885902405,
+          "bbox": {
+            "x": 1364,
+            "y": 1954,
+            "width": 437,
+            "height": 439
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2511700689792633,
+          "bbox": {
+            "x": 1187,
+            "y": 2095,
+            "width": 270,
+            "height": 107
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Письмо-42.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8235848546028137,
+          "bbox": {
+            "x": 550,
+            "y": 1199,
+            "width": 462,
+            "height": 468
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7721784114837646,
+          "bbox": {
+            "x": 801,
+            "y": 1617,
+            "width": 444,
+            "height": 426
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.44484424591064453,
+          "bbox": {
+            "x": 817,
+            "y": 1639,
+            "width": 423,
+            "height": 303
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\протоколдоз-_page_4.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7571011185646057,
+          "bbox": {
+            "x": 599,
+            "y": 2006,
+            "width": 455,
+            "height": 454
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.4551059603691101,
+          "bbox": {
+            "x": 1001,
+            "y": 1948,
+            "width": 361,
+            "height": 190
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.39649420976638794,
+          "bbox": {
+            "x": 996,
+            "y": 1905,
+            "width": 413,
+            "height": 261
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\протоколдоз-.pdf"
+    },
+    {
+      "image": "temp_images\\разрешназемл-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7117013335227966,
+          "bbox": {
+            "x": 1375,
+            "y": 2386,
+            "width": 427,
+            "height": 422
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\разрешназемл-2.pdf"
+    },
+    {
+      "image": "temp_images\\разрешназемлю-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.895818829536438,
+          "bbox": {
+            "x": 1405,
+            "y": 2366,
+            "width": 440,
+            "height": 450
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.28784579038619995,
+          "bbox": {
+            "x": 1751,
+            "y": 2483,
+            "width": 318,
+            "height": 207
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\разрешназемлю-.pdf"
+    },
+    {
+      "image": "temp_images\\Разрешназемлю-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8637625575065613,
+          "bbox": {
+            "x": 1404,
+            "y": 2371,
+            "width": 453,
+            "height": 446
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.26418212056159973,
+          "bbox": {
+            "x": 1643,
+            "y": 2495,
+            "width": 446,
+            "height": 264
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Разрешназемлю-31-.pdf"
+    },
+    {
+      "image": "temp_images\\Разрешназемлю-41-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6520275473594666,
+          "bbox": {
+            "x": 1386,
+            "y": 2407,
+            "width": 438,
+            "height": 395
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.3964037001132965,
+          "bbox": {
+            "x": 1370,
+            "y": 2441,
+            "width": 408,
+            "height": 381
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\Разрешназемлю-41-.pdf"
+    },
+    {
+      "image": "temp_images\\разрешнатех-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "qr",
+          "confidence": 0.7919396162033081,
+          "bbox": {
+            "x": 127,
+            "y": 2704,
+            "width": 399,
+            "height": 348
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.7305057048797607,
+          "bbox": {
+            "x": 553,
+            "y": 2703,
+            "width": 417,
+            "height": 350
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6684119701385498,
+          "bbox": {
+            "x": 1046,
+            "y": 2284,
+            "width": 326,
+            "height": 329
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6550634503364563,
+          "bbox": {
+            "x": 1897,
+            "y": 2273,
+            "width": 347,
+            "height": 346
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.6517089605331421,
+          "bbox": {
+            "x": 1467,
+            "y": 2260,
+            "width": 351,
+            "height": 357
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.5461538434028625,
+          "bbox": {
+            "x": 104,
+            "y": 2257,
+            "width": 403,
+            "height": 380
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.5427190661430359,
+          "bbox": {
+            "x": 578,
+            "y": 2263,
+            "width": 357,
+            "height": 379
+          }
+        },
+        {
+          "class": "qr",
+          "confidence": 0.3192349970340729,
+          "bbox": {
+            "x": 2174,
+            "y": 3136,
+            "width": 111,
+            "height": 132
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\разрешнатех-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7296838760375977,
+          "bbox": {
+            "x": 1346,
+            "y": 308,
+            "width": 473,
+            "height": 484
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.6928728818893433,
+          "bbox": {
+            "x": 1495,
+            "y": 2457,
+            "width": 454,
+            "height": 421
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7548316121101379,
+          "bbox": {
+            "x": 1367,
+            "y": 279,
+            "width": 468,
+            "height": 505
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-2_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7873403429985046,
+          "bbox": {
+            "x": 1478,
+            "y": 2416,
+            "width": 468,
+            "height": 460
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7549454569816589,
+          "bbox": {
+            "x": 1376,
+            "y": 311,
+            "width": 429,
+            "height": 452
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-31-_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7071565389633179,
+          "bbox": {
+            "x": 1493,
+            "y": 2457,
+            "width": 455,
+            "height": 425
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.751176118850708,
+          "bbox": {
+            "x": 1364,
+            "y": 275,
+            "width": 474,
+            "height": 513
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТЗ-41-чб_page_3.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7434940338134766,
+          "bbox": {
+            "x": 1478,
+            "y": 2397,
+            "width": 475,
+            "height": 480
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТЗ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7403037548065186,
+          "bbox": {
+            "x": 888,
+            "y": 1726,
+            "width": 473,
+            "height": 480
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.629711925983429,
+          "bbox": {
+            "x": 1168,
+            "y": 1520,
+            "width": 461,
+            "height": 415
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-2_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-2_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7681171894073486,
+          "bbox": {
+            "x": 1073,
+            "y": 1536,
+            "width": 445,
+            "height": 401
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.7366808652877808,
+          "bbox": {
+            "x": 866,
+            "y": 1786,
+            "width": 452,
+            "height": 525
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.25443968176841736,
+          "bbox": {
+            "x": 1088,
+            "y": 1522,
+            "width": 451,
+            "height": 367
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-2.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-31-_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-31-_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7391724586486816,
+          "bbox": {
+            "x": 887,
+            "y": 1724,
+            "width": 476,
+            "height": 485
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6352095007896423,
+          "bbox": {
+            "x": 1163,
+            "y": 1519,
+            "width": 468,
+            "height": 398
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-31-.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-41-чб_page_1.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [],
+      "source_pdf": "testingData58\\ТУ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\ТУ-41-чб_page_2.jpg",
+      "size": {
+        "width": 2380,
+        "height": 3368
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.7621906399726868,
+          "bbox": {
+            "x": 1071,
+            "y": 1538,
+            "width": 453,
+            "height": 402
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.746321439743042,
+          "bbox": {
+            "x": 864,
+            "y": 1782,
+            "width": 453,
+            "height": 532
+          }
+        },
+        {
+          "class": "signature",
+          "confidence": 0.2586289942264557,
+          "bbox": {
+            "x": 1083,
+            "y": 1525,
+            "width": 466,
+            "height": 358
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\ТУ-41-чб.pdf"
+    },
+    {
+      "image": "temp_images\\чертеж-_page_1.jpg",
+      "size": {
+        "width": 3368,
+        "height": 2380
+      },
+      "detections": [
+        {
+          "class": "stamp",
+          "confidence": 0.8339492082595825,
+          "bbox": {
+            "x": 854,
+            "y": 1822,
+            "width": 425,
+            "height": 457
+          }
+        },
+        {
+          "class": "stamp",
+          "confidence": 0.6466320157051086,
+          "bbox": {
+            "x": 1973,
+            "y": 1875,
+            "width": 469,
+            "height": 450
+          }
+        }
+      ],
+      "source_pdf": "testingData58\\чертеж-.pdf"
+    }
+  ]
+}

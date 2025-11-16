@@ -140,6 +140,10 @@ python -m streamlit run app.py
 ```
 
 Откроется браузер на `http://localhost:8501`
+<img width="844" height="765" alt="image" src="https://github.com/user-attachments/assets/855d749c-4c32-4dc0-a426-49d50b56d386" />
+<img width="1354" height="390" alt="image" src="https://github.com/user-attachments/assets/3a107e61-c8b6-4206-8bef-bb2c25e7ef1a" />
+
+
 
 **Возможности веб-интерфейса:**
 - 📤 Загрузка PDF и изображений через браузер

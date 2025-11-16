@@ -1,0 +1,23 @@
+# QR Detection
+qreader>=3.14
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# YOLOv5 for Signature and Stamp Detection
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Image processing
+Pillow>=10.0.0
+matplotlib>=3.7.0
+
+# Utils
+pyzbar>=0.1.9
+
+# Training (для дообучения)
+PyMuPDF>=1.23.0  # для конвертации PDF
+PyYAML>=6.0
+tqdm>=4.65.0
+pandas>=2.0.0
+

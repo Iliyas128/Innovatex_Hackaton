@@ -1,0 +1,9 @@
+names:
+- signature
+- stamp
+- qr
+nc: 3
+path: "C:\\Users\\Wekin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\
+  \u0442\u043E\u043B\\IliyasMoget\\datasets\\yolo_dataset"
+train: images/train
+val: images/val
